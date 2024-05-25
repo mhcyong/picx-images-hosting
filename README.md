@@ -1,5 +1,4 @@
 
-# 胖蒜图床
 
 [PicX在线](https://picx.xpoet.cn/) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
 
