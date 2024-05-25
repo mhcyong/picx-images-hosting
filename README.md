@@ -1,7 +1,7 @@
 
-# Welcome to use PicX
+# 胖蒜图床
 
-[PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
+[PicX在线](https://picx.xpoet.cn/) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
 
 PicX is completely open source, and you can use it for free.
 
